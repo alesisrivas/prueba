@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+  background-color: aliceblue;
+  padding: 0%;
+  color: #333;
+  text-align: center;
+}
+header {
+  background-color: antiquewhite;
+}
+.galeria {
+  padding: 20%;
+  text-align: center;
+}
+.galeria h2 {
+  margin-bottom: 30px;
+}
+.galeria img {
+  width: 200px;
+  height: auto;
+  margin: auto;
+  border-radius: 30%;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.galeria img:hover {
+  transform: scale(1.05);
+}
