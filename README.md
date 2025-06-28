@@ -1,1 +1,3 @@
-# Mi Primer Proyecto jaja
+# Mi Primer Proyecto
+## Descubriendo multiples funciones..
+
